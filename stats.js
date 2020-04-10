@@ -1,4 +1,5 @@
 const os = require('os')//importando modulo do node
+const log = require('./logger')
 
 setInterval(()=>{
 
@@ -25,4 +26,5 @@ setInterval(()=>{
     console.log("=== PC STATS ===")
     console.table(stats)
 
+    log('Rodando...');
 },5000)

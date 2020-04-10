@@ -1,0 +1,17 @@
+[object Object][object Object]{"free":"2000 MB","total":"7832 MB","usage":"25%"}
+{"free":"1993 MB","total":"7832 MB","usage":"25%"}
+{"free":"1999 MB","total":"7832 MB","usage":"25%"}
+{"free":"1983 MB","total":"7832 MB","usage":"25%"}
+{"free":"1988 MB","total":"7832 MB","usage":"25%"}
+{"free":"1986 MB","total":"7832 MB","usage":"25%"}
+{"free":"1985 MB","total":"7832 MB","usage":"25%"}
+{"free":"1985 MB","total":"7832 MB","usage":"25%"}
+{"free":"1978 MB","total":"7832 MB","usage":"25%"}
+{"free":"1976 MB","total":"7832 MB","usage":"25%"}
+{"free":"1975 MB","total":"7832 MB","usage":"25%"}
+{"free":"1980 MB","total":"7832 MB","usage":"25%"}
+{"free":"1979 MB","total":"7832 MB","usage":"25%"}
+{"free":"1979 MB","total":"7832 MB","usage":"25%"}
+{"free":"1975 MB","total":"7832 MB","usage":"25%"}
+{"free":"1971 MB","total":"7832 MB","usage":"25%"}
+{"free":"1971 MB","total":"7832 MB","usage":"25%"}
